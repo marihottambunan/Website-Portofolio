@@ -466,7 +466,7 @@ export default function Portfolio() {
               >
                 Get In Touch
               </Button>
-              <a href="/Marihot-Tambunan-CV.pdf" download>
+              <a href="/Marihot_Tambunan-CV.pdf" download>
                 <Button
                   variant="outline"
                   className="px-8 py-3 border-2 border-gray-300 dark:border-gray-500 bg-white dark:bg-gray-800 text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-gray-700 hover:border-gray-400 dark:hover:border-gray-400 transition-all duration-300"
