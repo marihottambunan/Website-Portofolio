@@ -41,9 +41,9 @@ export default function Portfolio() {
   const [currentTextIndex, setCurrentTextIndex] = useState(0)
 
   const texts = [
-    "Data Science & Machine Learning Enthusiast",
-    "Software Engineering Technology Student passionate about Data Analysis, Data Science, and Data Engineering with hands-on experience in ML projects",
-  ]
+    "Aspiring Data Specialist & Machine Learning Enthusiast",
+    "Software Engineering Technology Student with hands-on experience in data analysis, data engineering, and ML projects, passionate about building clean, reliable, and insightful datasets.",
+  ]  
 
   useEffect(() => {
     const currentText = texts[currentTextIndex]
@@ -441,7 +441,7 @@ export default function Portfolio() {
               transition={{ delay: 0.6 }}
               className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300"
             >
-              Data Science & Machine Learning Enthusiast
+              Aspiring Data Specialist & Machine Learning Enthusiast
             </motion.p>
 
             <motion.p
@@ -450,8 +450,7 @@ export default function Portfolio() {
               transition={{ delay: 0.8 }}
               className="text-lg text-gray-500 dark:text-gray-400 max-w-2xl mx-auto"
             >
-              Software Engineering Technology Student passionate about Data Analysis, Data Science, and Data Engineering
-              with hands-on experience in ML projects
+              Software Engineering Technology Student with hands-on experience in data analysis, data engineering, and ML projects, passionate about building clean, reliable, and insightful datasets.
             </motion.p>
 
             <motion.div
@@ -466,7 +465,7 @@ export default function Portfolio() {
               >
                 Get In Touch
               </Button>
-              <a href="/Marihot_Tambunan-CV.pdf" download>
+              <a href="/Marihot Josua Tambunan-resume.pdf" download>
                 <Button
                   variant="outline"
                   className="px-8 py-3 border-2 border-gray-300 dark:border-gray-500 bg-white dark:bg-gray-800 text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-gray-700 hover:border-gray-400 dark:hover:border-gray-400 transition-all duration-300"
