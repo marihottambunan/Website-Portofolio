@@ -75,7 +75,7 @@ export default function Portfolio() {
   }, [darkMode])
 
   const skills = {
-    "Data & Database": ["Tableau", "Excel", "MySQL", "PostgreSQL", "MongoDB", "Hadoop", "Cassandra"],
+    "Data & Database": ["Tableau", "Power BI (Microsoft)", "Excel", "MySQL", "PostgreSQL", "MongoDB", "Hadoop", "Cassandra"],
     Programming: ["Python", "Java", "C", "PHP", "JavaScript", "Go"],
     Backend: ["PHP (Laravel)", "RESTful API", "Microservices"],
     Frontend: ["React", "HTML/CSS", "Bootstrap", "Tailwind CSS"],
