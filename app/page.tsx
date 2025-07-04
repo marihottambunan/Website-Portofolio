@@ -107,7 +107,7 @@ export default function Portfolio() {
         "Built automated data processing system for real-time statistics",
         "Developed data integration solutions for regional planning",
       ],
-      tags: ["MySQL", "PHP", "Data Processing", "Dashboard"],
+      tags: ["PostgreSQL", "PHP", "Data Processing", "Dashboard"],
       github: "https://github.com/gilberd-siboro/PA_3-Data_Pertanian.git",
       id: "agricultural-system",
     },
@@ -186,7 +186,7 @@ export default function Portfolio() {
 
   const organizations = [
     {
-      role: "Head of Public Relations",
+      role: "Head of Public Relations, Publication and Career Commission",
       organization: "MPM - Institut Teknologi Del",
       period: "Sep 2024 - Present",
       description: "Led strategic communication and digital media management",
